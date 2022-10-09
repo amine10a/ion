@@ -14,6 +14,7 @@ py-OpenCV
 ```
 apt install python3
 pip3 install OpenCV
+git clone https://github.com/amine10a/ion
 cd ion
 python3 main.py
 ```
