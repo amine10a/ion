@@ -5,7 +5,7 @@ if u need to select objects names in any image this is ion is here ^^
 # Exemple
 ![shellp](https://github.com/amine10a/ion/blob/main/ION.png)
 ```
-reuirements:
+requirements:
 python3
 py-OpenCV
 
